@@ -58,6 +58,8 @@ Project2DFX: https://www.mixmods.com.br/2020/02/sa-project2dfx/
 
 Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
 
+NextGen Remaster Effects: https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/
+
 NeXtGen Remaster Weapons: https://www.mixmods.com.br/2021/05/nextgen-remaster-weapons-pack-de-armas-em-hd/
 
 Proper Radar: https://www.mixmods.com.br/2022/07/proper-radar/
