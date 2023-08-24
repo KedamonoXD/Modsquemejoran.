@@ -54,6 +54,8 @@ GPS Line Mod: https://www.mixmods.com.br/2022/02/iii-vc-sa-gps-line-mod-radar-mi
 
 Real Skybox: https://www.mixmods.com.br/2021/06/sa-real-skybox/
 
+Dynamic Shadow Color: https://www.mixmods.com.br/2019/04/dynamic-shadow-color-sombras-com-cor-realista/
+
 Project2DFX: https://www.mixmods.com.br/2020/02/sa-project2dfx/
 
 Uncompressed SFX Pack: https://www.mixmods.com.br/2020/07/uncompressed-sfx-pack-sons-originais-em-hd/
