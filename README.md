@@ -28,7 +28,7 @@ Ped Tweaks: https://www.mixmods.com.br/2021/09/sa-ped-tweaks-restaurar-policiais
 
 PedSkills: https://www.mixmods.com.br/2022/08/pedskills/
 
-Animation Fix + M4k3 Anims: https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/
+Project Web Anims v7.5: https://www.mixmods.com.br/2022/04/sa-project-web-anims/
 
 Mod Ragdoll Bullet Physics + Fix: https://www.mixmods.com.br/2021/09/mod-ragdoll-bullet-physics-fix-fisica-realista/
 
