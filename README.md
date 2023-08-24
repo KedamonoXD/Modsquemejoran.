@@ -6,7 +6,7 @@ Proper Fixes: https://www.mixmods.com.br/2022/08/sa-proper-fixes/
 
 Project Immerse-Yourself: https://www.mixmods.com.br/2022/01/project-immerse-yourself-prelight-melhorado/
 
-Improved and Fixed Original Vegetation: https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/
+Wind Project: https://www.mixmods.com.br/2022/10/wind-project/
 
 Proper Vehicles Retex: https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
 
